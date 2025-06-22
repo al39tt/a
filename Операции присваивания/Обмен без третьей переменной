@@ -1,0 +1,14 @@
+#include <stdio.h>
+ 
+int main()
+{
+    int x = 20;
+    int y = 7;
+    x += y; // (20+7=27)
+    y *= x; // (27*7=189)
+    x += y; // (189+27=216)
+ 
+    printf("%d\n",x);
+ 
+    return 0;
+}
