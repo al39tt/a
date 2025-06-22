@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main()
+{
+    int a = 10;
+    int b = 5;
+    int sum = a + b;
+    float average = sum / 2;
+    
+    printf("сумма равна %d + %d = %d\n", a, b, sum);
+    printf("среднее арифметическое %d / 2 = %.1f\n", sum, average);
+
+    return 0;
+}
