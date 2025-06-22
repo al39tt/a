@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main()
+{
+    int x=3;
+    float y=3.14;
+    double z=3.141592653589;
+    char m='K';
+    
+    printf("%d, %.2f, %.12lf, %c", x, y, z, m);
+
+    return 0;
+}
