@@ -21,3 +21,10 @@
    + [Обмен с помощью одного выражения](https://github.com/al39tt/a/blob/main/folder%204/ex.2)
    + [Обмен через операцию XOR](https://github.com/al39tt/a/blob/main/folder%204/ex.3)
    + [Обмен через третью переменную](https://github.com/al39tt/a/blob/main/folder%204/ex.4)
+
+**5. [Условные конструкции](https://github.com/al39tt/a/tree/main/folder%205)**
+   + [Упражнение 1](https://github.com/al39tt/a/blob/main/folder%205/ex.1)
+   + [Упражнение 2](https://github.com/al39tt/a/blob/main/folder%205/ex.2)
+   + [Упражнение 3](https://github.com/al39tt/a/blob/main/folder%205/ex.3)
+   + [Упражнение 4](https://github.com/al39tt/a/blob/main/folder%205/ex.4)
+   + [Упражнение 5](https://github.com/al39tt/a/blob/main/folder%205/ex.5)
