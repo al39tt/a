@@ -12,6 +12,9 @@
    + [Упражнение 4](https://github.com/al39tt/a/blob/main/folder%202/ex.4)
    + [Упражнение 5](https://github.com/al39tt/a/blob/main/folder%202/ex.5)
    + [Упражнение 6](https://github.com/al39tt/a/blob/main/folder%202/ex.6)
+
+**3. [Поразрядные операции](https://github.com/al39tt/a/tree/main/folder%203)**
+   + [Упражнение 1](https://github.com/al39tt/a/blob/main/folder%203/ex.1)
    
 **4. [Операции присваивания](https://github.com/al39tt/a/tree/main/folder%204)**
    + [Обмен без третей переменной](https://github.com/al39tt/a/blob/main/folder%204/ex.1)
