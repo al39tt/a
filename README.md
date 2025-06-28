@@ -31,6 +31,6 @@
 
 **6. [Циклы](https://github.com/al39tt/a/tree/main/folder%206)**
    + [Упражнение 1 через for](https://github.com/al39tt/a/blob/main/folder%206/ex.1.1)
-   +[Упражнение 1 через while](https://github.com/al39tt/a/blob/main/folder%206/ex.1.2)
+   + [Упражнение 1 через while](https://github.com/al39tt/a/blob/main/folder%206/ex.1.2)
    + [Упражнение 2](https://github.com/al39tt/a/blob/main/folder%206/ex.2)
    
