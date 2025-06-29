@@ -33,4 +33,6 @@
    + [Упражнение 1 через for](https://github.com/al39tt/a/blob/main/folder%206/ex.1.1)
    + [Упражнение 1 через while](https://github.com/al39tt/a/blob/main/folder%206/ex.1.2)
    + [Упражнение 2](https://github.com/al39tt/a/blob/main/folder%206/ex.2)
+   + [Упражнение 3](https://github.com/al39tt/a/blob/main/folder%206/ex.3)
+   + [Упражнение 4](https://github.com/al39tt/a/blob/main/folder%206/ex.4)
    
