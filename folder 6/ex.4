@@ -1,0 +1,23 @@
+#include <stdio.h>
+  
+int main(void)
+{
+ int size = 7; //задаем размер сетки
+ for(int x = 0; x < size ; x++) //  7 строк
+  {
+      for(int y = 0; y < size; y++) // 7 стобцов в строке
+      {
+          if (x == y || y == size - 1 - x || x == 0 || x == size - 1) // добавляем 2 условия для сплошных линий
+          { 
+              printf("*");
+          }
+          else
+          {
+              printf(" ");
+          }
+        }
+    
+        printf("\n");
+      }
+       return 0;
+}
