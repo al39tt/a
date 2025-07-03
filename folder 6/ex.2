@@ -1,13 +1,11 @@
 #include <stdio.h>
-  
-int main(void)
+
+int main() 
 {
-   for(int i=11; i < 20; i++) // если результат деления 0, то переход к след. итерации
-   {
-       if(i % 2 == 0) continue; // определяем остаток от деления
-    {
-     printf("%d ", i);  
-    }
-   }
-    return 0;
+	for(int x = 11; x <= 20; x++)
+	{
+	   if(x % 2 == 0) continue; // выдает значение только, если остаток деления не равен 0
+	   printf("%d\n", x);
+	}
+return 0;
 }
