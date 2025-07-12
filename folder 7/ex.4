@@ -1,0 +1,21 @@
+#include <stdio.h>
+ 
+int main()
+{
+    int arr [] = {1, 2, 3, 4, 5};
+    int size = sizeof(arr) / sizeof(arr [0]); // размер массива
+    int arr_inverted [5]; //инвертированный массив
+    
+    for (int i = 0; i < size; i++) //переворачиваем массив
+    {
+        arr_inverted[i] = arr[size - 1 - i];
+    }
+    
+        printf("Инвертированный:", arr_inverted); // вывод массива
+    for (int i = 0; i < size; i++)
+    {
+        printf("%d ", arr_inverted[i]);
+    }
+    
+    return 0;
+}
