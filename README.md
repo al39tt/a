@@ -54,5 +54,5 @@
    + [Упражнение 1](https://github.com/al39tt/a/blob/main/folder%209/ex.1)
    + [Упражнение 2](https://github.com/al39tt/a/blob/main/folder%209/ex.2)
 
-**2. [Константы и указатели](https://github.com/al39tt/a/tree/main/folder%210)** 
-   + [Упражнение 1](https://github.com/al39tt/a/blob/main/folder%210/ex.1)
+**2. [Константы и указатели](https://github.com/al39tt/a/tree/main/folder%2010)** 
+   + [Упражнение 1](https://github.com/al39tt/a/blob/main/folder%2010/ex.1)
