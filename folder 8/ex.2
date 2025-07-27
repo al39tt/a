@@ -1,0 +1,19 @@
+#include <stdio.h>
+ 
+int main(void)
+{
+    char buffer[50]; //буфер для ввода
+    int age;
+    double height;
+    
+    printf ("Введите возраст: ");
+    fgets(buffer, sizeof(buffer), stdin); // считываем строку в буфер
+    sscanf(buffer, "%d", &age); // выводим строку из буфера
+    
+    printf ("Введите рост в метрах: ");
+    fgets(buffer, sizeof(buffer), stdin); // считываем строку в буфер
+    sscanf(buffer, "%lf", &height); // выводим строку из буфера
+    
+    printf("Возраст %d лет, рост %.2lf метра\n", age, height);
+    return 0;
+}
