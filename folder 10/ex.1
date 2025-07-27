@@ -1,0 +1,14 @@
+#include <stdio.h>
+ 
+int main(void) {
+    
+    const long value = 123456789;
+
+    const long *ptr_to_const = &value; // указатель на константу
+    printf("%ld\n", *ptr_to_const);
+    
+    char * const const_ptr = "Hello";  // указатель на строку
+    printf("%s\n", const_ptr);
+
+    return 0;
+}
