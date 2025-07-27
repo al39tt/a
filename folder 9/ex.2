@@ -1,0 +1,15 @@
+#include <stdio.h>
+ 
+int main(void)
+{
+    int x = 10; //определяем переменную
+    int *gpt = &x; //jghtltkzt erfpftnkm yf gthtvyye. x
+   
+   printf("gpt = %p, *gpt = %d, x = %d\n", gpt, *gpt, x); //выводим адрес и значение
+   
+   *gpt = 100; //меняем значение
+   
+   printf("gpt = %p, *gpt = %d, x = %d\n", gpt, *gpt, x); //выводим адрес и новое значение
+   
+    return 0;
+}
