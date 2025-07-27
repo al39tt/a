@@ -41,4 +41,11 @@
    + [Упражнение 2](https://github.com/al39tt/a/blob/main/folder%207/ex.2)
    + [Упражнение 3](https://github.com/al39tt/a/blob/main/folder%207/ex.3)
    + [Упражнение 4](https://github.com/al39tt/a/blob/main/folder%207/ex.4)
+
+**8. [Ввод с консоли](https://github.com/al39tt/a/tree/main/folder%208)**
+   + [Упражнение 1](https://github.com/al39tt/a/blob/main/folder%208/ex.1)
+   + [Упражнение 2](https://github.com/al39tt/a/blob/main/folder%208/ex.2)
+   + [Упражнение 3](https://github.com/al39tt/a/blob/main/folder%208/ex.3)
+   + [Упражнение 4](https://github.com/al39tt/a/blob/main/folder%208/ex.4)
+   + [Упражнение 5](https://github.com/al39tt/a/blob/main/folder%208/ex.5)
    
