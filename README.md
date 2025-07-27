@@ -50,3 +50,6 @@
    + [Упражнение 5](https://github.com/al39tt/a/blob/main/folder%208/ex.5)
    
 ## Глава 2. Указатели
+**1. [Что такое указатели](https://github.com/al39tt/a/tree/main/folder%209)** 
+   + [Упражнение 1](https://github.com/al39tt/a/blob/main/folder%209/ex.1)
+   + [Упражнение 2](https://github.com/al39tt/a/blob/main/folder%209/ex.2)
