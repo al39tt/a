@@ -49,3 +49,4 @@
    + [Упражнение 4](https://github.com/al39tt/a/blob/main/folder%208/ex.4)
    + [Упражнение 5](https://github.com/al39tt/a/blob/main/folder%208/ex.5)
    
+## Глава 2. Указатели
