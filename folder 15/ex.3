@@ -1,0 +1,30 @@
+#include <stdio.h>
+
+int factorial(int x)
+{
+    if (x < 0) // отрицательный факториал невозможен
+    {
+        return 0;
+    }
+    
+    int result = 1; // начальное значение факториала
+    
+    for (int i = 1; i <= x; ++i) // умножаем от 1 до x
+    {
+        result *= i;
+    }
+    
+    return result;
+}
+
+int main(void) 
+{
+    int x;
+
+    printf("Введите x: "); // ввод с консоли
+    scanf("%d", &x);
+    
+    printf("%d! = %d\n", x, factorial(x)); 
+    
+    return 0;
+}
