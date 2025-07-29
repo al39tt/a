@@ -1,0 +1,28 @@
+#include <stdio.h>
+
+int calculate(int x, int y)
+{
+    if (x > y) 
+    {
+        return x - y;
+    } 
+    else 
+    {
+        return x + y;
+    }
+}
+
+int main(void) {
+    int x, y;
+
+    printf("Введите x: "); //ввод с консоли
+    scanf("%d", &x);
+
+    printf("Введите y: ");
+    scanf("%d", &y);
+
+    int result = calculate(x, y);
+    printf("Результат: %d\n", result);
+
+    return 0;
+}
