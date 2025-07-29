@@ -1,0 +1,9 @@
+#include <stdio.h>
+ 
+int main()
+{
+
+    char *arr = "Meow Meow Meow"; 
+    printf("%s", arr);
+    return 0;
+}
