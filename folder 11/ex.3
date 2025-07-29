@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main() {
+    int arr[] = {3, 4, 5, 6, 7}; //массив
+    int *ptr = arr; //указатель
+
+    int thirdElement = *(ptr + 2); // третий элемент, отсчет с 0
+
+    int fourthElement = *(ptr + 3); // четвертый элемент, отсчет с 0
+
+    printf("Третий элемент: %d\n", thirdElement);
+    printf("Четвертый элемент: %d\n", fourthElement);
+
+    return 0;
+}
