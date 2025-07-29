@@ -1,0 +1,33 @@
+#include <stdio.h>
+
+void print_person(char* name, int age) 
+{
+    printf("Name: %s \t Age: %d \n", name, age);
+}
+
+void print_product(char* title, int price) 
+{
+    printf("Title: %s \t Price: %d \n", title, price);
+}
+
+int main(void) 
+{
+    char name[100]; // Массив для строки имя
+    int age;
+    printf("Введите имя и возраст: ");
+    scanf("%s %d", name, &age);
+
+    void (*print)(char*, int); // Указатель на функцию
+    print = print_person;
+    print(name, age); // Вызов функции через указатель
+
+    char product[100]; // Массив для строки продукта
+    int price;
+    printf("Введите продукт и цену: ");
+    scanf("%s %d", product, &price);
+
+    print = print_product;
+    print(product, price); // Вызов функции через указатель
+
+    return 0;
+}
