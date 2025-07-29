@@ -64,3 +64,8 @@
 
 **4. [Массив указателей](https://github.com/al39tt/a/tree/main/folder%2012)**
    + [Упражнение 1](https://github.com/al39tt/a/blob/main/folder%2012/ex.1)
+
+## Глава 3. Функции
+**1. [Определение и описание функций](https://github.com/al39tt/a/tree/main/folder%2013)** 
+   + [Упражнение 1](https://github.com/al39tt/a/blob/main/folder%2013/ex.1)
+   + [Упражнение 2](https://github.com/al39tt/a/blob/main/folder%2013/ex.2)
