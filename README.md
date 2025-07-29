@@ -56,3 +56,8 @@
 
 **2. [Константы и указатели](https://github.com/al39tt/a/tree/main/folder%2010)** 
    + [Упражнение 1](https://github.com/al39tt/a/blob/main/folder%2010/ex.1)
+
+**3. [Указатели, массивы и строки](https://github.com/al39tt/a/tree/main/folder%2011)**
+   + [Упражнение 1](https://github.com/al39tt/a/blob/main/folder%2011/ex.1)
+   + [Упражнение 2](https://github.com/al39tt/a/blob/main/folder%2011/ex.2)
+   + [Упражнение 3](https://github.com/al39tt/a/blob/main/folder%2011/ex.3)
