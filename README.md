@@ -61,3 +61,6 @@
    + [Упражнение 1](https://github.com/al39tt/a/blob/main/folder%2011/ex.1)
    + [Упражнение 2](https://github.com/al39tt/a/blob/main/folder%2011/ex.2)
    + [Упражнение 3](https://github.com/al39tt/a/blob/main/folder%2011/ex.3)
+
+**4. [Массив указателей](https://github.com/al39tt/a/tree/main/folder%2012)**
+   + [Упражнение 1](https://github.com/al39tt/a/blob/main/folder%2012/ex.1)
