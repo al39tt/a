@@ -69,3 +69,7 @@
 **1. [Определение и описание функций](https://github.com/al39tt/a/tree/main/folder%2013)** 
    + [Упражнение 1](https://github.com/al39tt/a/blob/main/folder%2013/ex.1)
    + [Упражнение 2](https://github.com/al39tt/a/blob/main/folder%2013/ex.2)
+
+**2. [Параметры функции](https://github.com/al39tt/a/tree/main/folder%2014)** 
+   + [Упражнение 1](https://github.com/al39tt/a/blob/main/folder%2014/ex.1)
+   + [Упражнение 2](https://github.com/al39tt/a/blob/main/folder%2014/ex.2)
