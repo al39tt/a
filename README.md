@@ -78,3 +78,7 @@
    + [Упражнение 1](https://github.com/al39tt/a/blob/main/folder%2015/ex.1)
    + [Упражнение 2](https://github.com/al39tt/a/blob/main/folder%2015/ex.2)
    + [Упражнение 3](https://github.com/al39tt/a/blob/main/folder%2015/ex.3)
+
+**4. [Указатели в параметрах функции](https://github.com/al39tt/a/tree/main/folder%2016)**
+   + [Упражнение 1](https://github.com/al39tt/a/blob/main/folder%2016/ex.1)
+   + [Упражнение 2](https://github.com/al39tt/a/blob/main/folder%2016/ex.2)
