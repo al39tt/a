@@ -1,0 +1,30 @@
+#include <stdio.h>
+
+int calculate(int x, int y); // прототип функции
+
+int main(void) 
+{
+    int x, y;
+
+    printf("Введите x: ");
+    scanf("%d", &x);
+
+    printf("Введите y: ");
+    scanf("%d", &y);
+
+    int result = calculate(x, y);  // Вызов функции
+    printf("Результат: %d\n", result);
+
+    return 0;
+}
+
+int calculate(int x, int y) //сама функция (определение)
+{
+    if (x > y) 
+    {
+        return x - y;
+    } else 
+    {
+        return x + y;
+    }
+}
