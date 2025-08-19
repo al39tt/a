@@ -91,3 +91,8 @@
    + [Упражнение 1](https://github.com/al39tt/a/blob/main/folder%2018/ex.%201)
    + [Упражнение 2](https://github.com/al39tt/a/blob/main/folder%2018/ex.%202)
 
+## Глава 5. Структуры
+**1. [Структуры](https://github.com/al39tt/a/tree/main/folder%2019)** 
+   + [Упражнение 1](https://github.com/al39tt/a/blob/main/folder%2019/ex.%201)
+   + [Упражнение 2](https://github.com/al39tt/a/blob/main/folder%2019/ex.%202)
+
