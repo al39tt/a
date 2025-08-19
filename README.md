@@ -98,3 +98,7 @@
 
 **2. [Указатели на структуры](https://github.com/al39tt/a/tree/main/folder%2020)** 
    + [Упражнение 1](https://github.com/al39tt/a/blob/main/folder%2020/ex.%201)
+
+**3. [Перечисления](https://github.com/al39tt/a/tree/main/folder%2021)**
+   + [Упражнение 1](https://github.com/al39tt/a/blob/main/folder%2021/ex.%201)
+
