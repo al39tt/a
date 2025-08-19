@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+#define MAX(a, b) ((a) > (b) ? (a) : (b)) //ПРОВЕРКА УСЛОВИЯ
+
+int main(void)
+{
+    int x;
+    int y;
+    
+    printf("Введите x:"); //ВВОД С КОНСОЛИ
+    scanf("%d", &x);
+    
+    printf("Введите y:");
+    scanf("%d", &y);
+    
+    printf("MAX value: %d", MAX(x, y)); 
+    
+    return 0;
+}
