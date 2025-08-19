@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+ #define N 22
+
+int main(void)
+{
+    int value = N; //опрелеояем перемнную
+    printf("VALUE: %d", value); 
+    
+#undef N
+//удаляем макрос
+    return 0;
+}
