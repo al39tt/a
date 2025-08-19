@@ -89,5 +89,5 @@
 ## Глава 4. Препроцессор
 **1. [Директива #define и макросы](https://github.com/al39tt/a/tree/main/folder%2018)** 
    + [Упражнение 1](https://github.com/al39tt/a/blob/main/folder%2018/ex.%201)
-   + [Упражнение 2](https://github.com/al39tt/a/blob/main/folder%2018/ex.202)
+   + [Упражнение 2](https://github.com/al39tt/a/blob/main/folder%2018/ex.%202)
 
