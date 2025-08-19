@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+struct person
+{
+    char * name;
+    int age;
+};
+  
+int main(void)
+{
+    struct person bob = {"Bob", 50};
+    struct person *p_bob = &bob; //инициализация указателя
+   
+    char * name = p_bob->name;    // эквивалентно (*p_bob).name
+    int age = p_bob->age;         // эквивалентно (*p_bob).age
+   
+    printf("name = %s \t age = %d \n", name, age);
+
+    return 0;
+}
