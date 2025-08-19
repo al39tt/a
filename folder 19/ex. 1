@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+struct employee
+{
+    char * name;
+    int age;
+    double salary;
+};
+  
+int main(void)
+{
+    struct employee sam; //инициализирую по отдельности, хотя можнго все вместе
+    sam.name ="Sam";
+    sam.age = 23;
+    sam.salary = 4500;
+    printf("Name:%s \t Age: %d\n Salary: %.2lf\n", sam.name, sam.age, sam.salary);
+    return 0;
+}
